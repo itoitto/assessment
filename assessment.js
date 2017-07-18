@@ -5,7 +5,6 @@
     const resultDivided = document.getElementById('result-area');
     const tweetDivided = document.getElementById('tweet-area');
 
-    
     /**
     * 指定した要素の子どもを全て除去する
     * @param {HTMLElement} element HTMLの要素
@@ -69,7 +68,7 @@
         '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
         '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
         '{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
-        '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振舞に多くの人が癒やされています。'
+        '{userName}のいいところは優しさです。あなたの優しい雰囲気や立ち振舞に多くの人が癒やされています。'
     ];
 
     /**
